@@ -275,7 +275,7 @@ def about_me():
         """, unsafe_allow_html=True)
 
 def skills():
-    header()  # Assuming you have a header function to display the header
+    header()   
 
     st.markdown("""
     <div class="fade-in">
@@ -283,7 +283,7 @@ def skills():
     </div>
     """, unsafe_allow_html=True)
 
-    # Define a dictionary to store the skills and their levels
+     
     skills_data = {
         "Programming Languages": [
             ("Python", 90),
@@ -741,7 +741,7 @@ def contact():
             submitted = st.form_submit_button("Send Message", type="primary")
             if submitted:
                 if name and email and message:
-                    # In a real app, you would send this data to your email or database
+                 
                     st.success("Thank you for your message! I'll get back to you soon.")
                 else:
                     st.warning("Please fill in all required fields.")
@@ -766,4 +766,4 @@ elif st.session_state.page == "awards":
 elif st.session_state.page == "contact":
     contact()
 else:
-    about_me()  # Default to "About Me"
+    about_me()   
