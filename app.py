@@ -12,7 +12,7 @@ st.set_page_config(
     page_icon="🚀"
 )
 if "page" not in st.session_state:
-    st.session_state.page = "about"  # Default page
+    st.session_state.page = "about"   
 
 # Custom CSS for animations and styling
 st.markdown("""
