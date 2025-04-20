@@ -354,8 +354,12 @@ def experience():
         <div style="margin-top: 10px;">
             <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
             <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
-            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">YOLOv8</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">AI/ML Technology</span>
             <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">React</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">HTML</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">CSS</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">JavaScript</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">LLM</span>
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -372,9 +376,9 @@ def experience():
             <li>Developed deep learning models for NLP & computer vision applications.</li>
         </ul>
         <div style="margin-top: 10px;">
-            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">PyTorch</span>
-            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">YOLOv7</span>
-            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">LightGBM</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">PyTorch and tensorflow</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Computer Vision & Deep Learning</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">LLM</span>
             <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">NLP</span>
         </div>
     </div>
@@ -399,13 +403,13 @@ def education():
         <div style="margin-top: 15px;">
             <h4>Relevant Coursework:</h4>
             <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Data Structures</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Algorithms</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Databases</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Computer Networks</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Operating Systems</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Image Processing</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Data Structures</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Algorithms</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Databases</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Computer Networks</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Operating Systems</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Image Processing</span>
             </div>
         </div>
     </div>
