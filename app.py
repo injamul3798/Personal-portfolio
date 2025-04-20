@@ -352,10 +352,10 @@ def experience():
             <li>Created Avail Ortho: real-time hip anatomy evaluation tool with HDMI integration for surgical assistance.</li>
         </ul>
         <div style="margin-top: 10px;">
-            <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
-            <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
-            <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">YOLOv8</span>
-            <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">React</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">YOLOv8</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">React</span>
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -372,10 +372,10 @@ def experience():
             <li>Developed deep learning models for NLP & computer vision applications.</li>
         </ul>
         <div style="margin-top: 10px;">
-            <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">PyTorch</span>
-            <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">YOLOv7</span>
-            <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">LightGBM</span>
-            <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">NLP</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">PyTorch</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">YOLOv7</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">LightGBM</span>
+            <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">NLP</span>
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -432,10 +432,10 @@ def projects():
                 <li>PDF document loader</li>
             </ul>
             <div style="margin-top: 10px;">
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Streamlit</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">LangChain</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">HuggingFace</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Streamlit</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">LangChain</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">HuggingFace</span>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -452,10 +452,10 @@ def projects():
                 <li>User management</li>
             </ul>
             <div style="margin-top: 10px;">
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">YOLOv8</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">MySQL</span>
+                <span class="chip" style="background: #008080;; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">YOLOv8</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">MySQL</span>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -472,10 +472,10 @@ def projects():
                 <li>Detailed feedback on resume strengths and weaknesses</li>
             </ul>
             <div style="margin-top: 10px;">
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">NLP</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">NLP</span>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -491,9 +491,9 @@ def projects():
                 <li>Real-time prediction updates during live matches</li>
             </ul>
             <div style="margin-top: 10px;">
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -501,7 +501,7 @@ def projects():
     with col2:
         st.markdown("""
         <div class="card slide-in-left">
-            <h3>Avail Ortho - Hip Overlay Project</h3>
+            <h3>Hip Overlay Project</h3>
             <p>Real-time hip anatomy evaluation tool for surgeons with HDMI & C-ARM integration.</p>
             <h4>Key Features:</h4>
             <ul>
@@ -511,10 +511,10 @@ def projects():
                 <li>3D visualization</li>
             </ul>
             <div style="margin-top: 10px;">
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">OpenCV</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">MySQL</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">OpenCV</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">MySQL</span>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -531,10 +531,10 @@ def projects():
                 <li>Customizable workflow</li>
             </ul>
             <div style="margin-top: 10px;">
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">FastAPI</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Docker</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">CI/CD</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">FastAPI</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Docker</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">CI/CD</span>
             </div>
             <div style="margin-top: 15px; text-align: center;">
                 <a href="https://github.com/injamul3798/tool-fusion" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
@@ -555,9 +555,9 @@ def projects():
                 <li>Helps in early detection and prevention</li>
             </ul>
             <div style="margin-top: 10px;">
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
-                <span class="chip" style="background: #E0E0FF; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
+                <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -688,9 +688,8 @@ def awards():
         <div class="card slide-in-left">
             <h3>🏆 Awards</h3>
             <ul>
-                <li>Dean's List Award for Academic Excellence (2022, 2023)</li>
-                <li>Best Project Award - University Tech Fest 2023</li>
-                <li>Hackathon Winner - DIU Code Warriors 2022</li>
+   
+                <li>Hackathon Winner</li>
             </ul>
         </div>
         """, unsafe_allow_html=True)
