@@ -441,6 +441,9 @@ def projects():
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">LangChain</span>
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">HuggingFace</span>
             </div>
+            <div style="margin-top: 15px; text-align: center;">
+                <a href="https://github.com/injamul3798/" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
+            </div>
         </div>
         """, unsafe_allow_html=True)
         
@@ -460,6 +463,9 @@ def projects():
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">YOLOv8</span>
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">MySQL</span>
+            </div>
+            <div style="margin-top: 15px; text-align: center;">
+                <a href="https://github.com/injamul3798/" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -481,6 +487,9 @@ def projects():
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">NLP</span>
             </div>
+            <div style="margin-top: 15px; text-align: center;">
+                <a href="https://github.com/injamul3798/AI-LLM-Based-Resume-Matching" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
+            </div>
         </div>
         """, unsafe_allow_html=True)
 
@@ -498,6 +507,9 @@ def projects():
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Python</span>
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
+            </div>
+            <div style="margin-top: 15px; text-align: center;">
+                <a href="https://github.com/injamul3798/ipl_score_prediction" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -520,6 +532,9 @@ def projects():
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">OpenCV</span>
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">MySQL</span>
             </div>
+            <div style="margin-top: 15px; text-align: center;">
+                <a href="https://github.com/injamul3798/" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
+            </div>
         </div>
         """, unsafe_allow_html=True)
         
@@ -541,7 +556,7 @@ def projects():
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">CI/CD</span>
             </div>
             <div style="margin-top: 15px; text-align: center;">
-                <a href="https://github.com/injamul3798/tool-fusion" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
+                <a href="https://github.com/injamul3798/" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -563,6 +578,10 @@ def projects():
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Django</span>
                 <span class="chip" style="background: #008080; color: #4D44DB; padding: 5px 10px; border-radius: 20px; margin-right: 5px; display: inline-block;">Machine Learning</span>
             </div>
+            <div style="margin-top: 15px; text-align: center;">
+                <a href="https://github.com/injamul3798/Web-ML-Diabetes-Predictor-Empowering-Health-Awareness-Online" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
+            </div>
+    
         </div>
         """, unsafe_allow_html=True)
 
