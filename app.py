@@ -626,9 +626,9 @@ def tools():
         st.markdown("""
         <div class="card slide-in-left">
             <h3>Tool Fusion</h3>
-            <p>Modular pipeline for integrating multiple AI and data-processing tools.</p>
+            <p>ToolFusion: All-in-one Streamlit toolkit for converting notebooks, images, PDFs & screen recording!..</p>
             <div style="margin-top: 15px; text-align: center;">
-                <a href="https://github.com/injamul3798/tool-fusion" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
+                <a href="https://github.com/injamul3798/ToolFusion-Toolkit" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -636,9 +636,9 @@ def tools():
         st.markdown("""
         <div class="card slide-in-left">
             <h3>DSA Resource</h3>
-            <p>Curated collection of Data Structures & Algorithms tutorials and references.</p>
+            <p>A collection of data structures and algorithms implementations using the Python programming language, along with my practice coding library..</p>
             <div style="margin-top: 15px; text-align: center;">
-                <a href="https://github.com/injamul3798/dsa-resource" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
+                <a href="https://github.com/injamul3798/DSA_learning_code" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -649,7 +649,7 @@ def tools():
             <h3>ML Resource</h3>
             <p>Repository of machine learning projects, notebooks, and best practices.</p>
             <div style="margin-top: 15px; text-align: center;">
-                <a href="https://github.com/injamul3798/ml-resource" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
+                <a href="https://github.com/injamul3798/ML_DL_NLP_Resource_Code" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -657,9 +657,9 @@ def tools():
         st.markdown("""
         <div class="card slide-in-left">
             <h3>AI Chatbot Template</h3>
-            <p>Template for building AI-powered chatbots with Streamlit and LangChain.</p>
+            <p>AI-powered chatbots with Streamlit and LangChain.</p>
             <div style="margin-top: 15px; text-align: center;">
-                <a href="https://github.com/injamul3798/ai-chatbot-template" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
+                <a href="https://github.com/injamul3798/rag_chatbot-main" target="_blank" style="background: #6C63FF; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none;">View on GitHub</a>
             </div>
         </div>
         """, unsafe_allow_html=True)
