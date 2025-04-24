@@ -247,7 +247,7 @@ def about_me():
             <p>✉️ <strong>Email:</strong> injamulhaque9117@gmail.com</p>
             <p>📱 <strong>Phone:</strong> +8801745-449117</p>
             <p>🔗 <strong>GitHub:</strong> <a href="https://github.com/injamul3798" target="_blank">injamul3798</a></p>
-            <p>💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/injamul-haque21/" target="_blank">injamul-haque21</a></p>
+            <p>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/injamul-haque98/" target="_blank">injamul-haque21</a></p>
         </div>
         """, unsafe_allow_html=True)
     
